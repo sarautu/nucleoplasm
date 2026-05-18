@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+*.h5
+*.hdf5
+*.npy
+*.npz
+
+fields*/
+flows*/
+order*/
+checkpoints*/
+
+*.log
+.DS_Store
+.ipynb_checkpoints/
